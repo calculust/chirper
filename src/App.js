@@ -87,7 +87,7 @@ const App = () => {
     return (
         <>
             <GlobalStyle />
-            <nav className="navbar navbar-dark bg-info p-3 mb-5">
+            <nav className="navbar sticky-top navbar-dark bg-info p-3 mb-5">
                 <div className="container-fluid">
                     <a href="#" className="navbar-brand">🐦 Chirper</a>
                     <div className="d-flex">
